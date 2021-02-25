@@ -1,5 +1,5 @@
 body {
-    background-color: rosybrown;
+    background-color: whitesmoke;
 
 }
 
@@ -67,6 +67,7 @@ nav {
 }
 
 .content {
+    background-image: url("images/zoe-mccrum-rXQ-ZQr8M0s-unsplash.jpg")
     font-family: 'Cutive Mono', monospace;
     width: 500px;
     margin: 0 auto;
@@ -77,6 +78,7 @@ nav {
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
+
 
 }
 
