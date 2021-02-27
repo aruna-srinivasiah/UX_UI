@@ -40,9 +40,11 @@ body {
     align-items: center;
 }
 
-img.my-story {
-    height: 300px;
-    width: 300px;
+.my-story {
+    height: 1000px;
+    width: 1000px;
+    padding: 20%;
+    size:1000px;
 }
 
 hr {
@@ -130,7 +132,7 @@ nav {
 }
 
 .hero {
-    height: 600px;
+    height: 300px;
     padding: 25px;
 }
 
@@ -138,15 +140,13 @@ nav {
     text-align: center;
 }
 
-.body-content {
-    background-image: url("images/zoe-mccrum-rXQ-ZQr8M0s-unsplash.jpg");
+.content {
     font-family: 'Cutive Mono', monospace;
     margin: 0 auto;
     width: 500px;
+    padding: 15px 15px;
     vertical-align: middle;
     border: 5px solid black;
-    padding: 15px;
-    width: 275px;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
